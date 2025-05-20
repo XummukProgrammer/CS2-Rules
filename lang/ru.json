@@ -1,0 +1,18 @@
+{
+  "menus.categories.title": "Категории",
+  "menus.categories.item": "{0} [{1}]",
+  "menus.rules.title": "Правила",
+  "menus.rule.title": "Правило",
+  
+  "Category_1.title": "Категория 1",
+  "Category_2.title": "Категория 2",
+  
+  "Rule_1.title": "Правило 1",
+  "Rule_1.description": "Правило 1 (Описание)",
+  
+  "Rule_2.title": "Правило 2",
+  "Rule_2.description": "Правило 2 (Описание)",
+  
+  "Rule_3.title": "Правило 3",
+  "Rule_3.description": "Правило 3 (Описание)",
+} 
