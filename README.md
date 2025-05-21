@@ -57,8 +57,9 @@
 # Установка
 1. Скачать [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp/releases/tag/v1.0.318)
 2. Скачать [Metamod](https://www.sourcemm.net/downloads.php?branch=dev)
-3. Скачать [релиз](https://github.com/XummukProgrammer/CS2-Rules/releases/tag/v1.0)
-4. Распаковать архив из релиза на сервер
-5. Настроить конфиг
-6. Настроить переводы
-7. Запускаем сервер и проверяем
+3. Скачать [CS2MenuManager](https://github.com/schwarper/CS2MenuManager/releases/tag/v1.0.32)
+4. Скачать [релиз](https://github.com/XummukProgrammer/CS2-Rules/releases/tag/v1.0)
+5. Распаковать архив из релиза на сервер
+6. Настроить конфиг
+7. Настроить переводы
+8. Запускаем сервер и проверяем
